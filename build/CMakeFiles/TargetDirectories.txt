@@ -1,0 +1,6 @@
+/data/test/usemuduo/build/CMakeFiles/rebuild_cache.dir
+/data/test/usemuduo/build/CMakeFiles/edit_cache.dir
+/data/test/usemuduo/build/src/mini-monitor/CMakeFiles/rebuild_cache.dir
+/data/test/usemuduo/build/src/mini-monitor/CMakeFiles/edit_cache.dir
+/data/test/usemuduo/build/src/mini-monitor/CMakeFiles/server.dir
+/data/test/usemuduo/build/src/mini-monitor/CMakeFiles/client.dir
